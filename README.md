@@ -1,1 +1,1 @@
-# BIS346-446-JiaqiCheng.gitignore 
+# BIS346-446-Winter-2022-Intro-to-Python
